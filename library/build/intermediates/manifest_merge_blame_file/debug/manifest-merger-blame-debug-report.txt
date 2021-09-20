@@ -6,11 +6,11 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
-8-->D:\Awais LC 05\LNQ App\LNQ\library\src\main\AndroidManifest.xml
+8-->C:\Users\leadconcept\Documents\lnq_training\library\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->D:\Awais LC 05\LNQ App\LNQ\library\src\main\AndroidManifest.xml
+9-->C:\Users\leadconcept\Documents\lnq_training\library\src\main\AndroidManifest.xml
 10
 11    <application />
-11-->D:\Awais LC 05\LNQ App\LNQ\library\src\main\AndroidManifest.xml:5:5-20
+11-->C:\Users\leadconcept\Documents\lnq_training\library\src\main\AndroidManifest.xml:5:5-20
 12
 13</manifest>
